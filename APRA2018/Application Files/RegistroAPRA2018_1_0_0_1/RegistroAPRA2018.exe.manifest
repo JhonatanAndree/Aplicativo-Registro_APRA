@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RegistroAPRA2018.exe" version="1.0.0.1" publicKeyToken="a05b7c600830d6cb" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RegistroAPRA2018" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="RegistroAPRA2018.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opciones del manifiesto UAC
+             Si quiere cambiar el nivel del Control de cuentas de usuario de Windows reemplace el 
+             nodo requestedExecutionLevel por uno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Especificar el elemento requestedExecutionLevel deshabilitará la virtualización de archivos y registros. 
+            Quite este elemento si la aplicación necesita esta virtualización para la compatibilidad
+            con versiones anteriores.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RegistroAPRA2018.exe" size="121368">
+      <assemblyIdentity name="RegistroAPRA2018" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yzjsZOp7nwNifyMv9aNdzpkvhQzbeY6MC6mReowBsSI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Elecciones2018.accdb" size="462848">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BXTEtuL5bIok4I4WnXgfSI7G9uQTUqHmrZ6wc8Ufq0E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="RegistroAPRA2018.exe.config" size="815">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rP18x9yZW9r3vybb7sbx6qQsfKmDWBBRTG7Jd4um+EE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Una lista de las versiones de Windows en la que se ha probado esta aplicación y
+           con la que se ha diseñado para que trabaje. Quite la marca de comentario de los elementos adecuados y Windows seleccionará 
+           automáticamente el entorno más compatible. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=JHONATANANDREE\Jhonatan Andree" issuerKeyHash="e4cfd0071596e16d7ab031d95ff89d8b34038db8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dFFvZHKu7Q9K/Ob1ClJ+vAE8Wtuw8newbnH4X10nXiI=</DigestValue></Reference></SignedInfo><SignatureValue>NqYGhbnUQxXI2Y6bAMSysmORPZrO3BHRD35PHI45LOTrkksy7QA77qLJ4AGdrCqCXzZMvh9VfhpkjS3rH1nmd4v1HGV5i+uekr+uL+0tZ06kLYiizdQHpaXgHT71oyOP3aA/OxjUgIWRCrILF/bqNLPtwXoCOfZltP/8LoZdT9Y=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zMy/EM4ky1uZgdn5DYjB2FKfdy+Afu0Dx8XgoncUpsa/tanXLdKDIvyX+tyB58nICn1DYKWI3hnl+sil4e7e0ZpmZqpSTo0vSLZCjn0Z3EuOO31beVk9j1bKXtT5o4OYzm+6hOzmLrLLFUBnzpavC2IkO0LLKNt6dBvVOSjhTFE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="225e275d5ff8716eb077f2b0db5a3c01bc7e520af5e6fc4a0fedae72646f5174" Description="" Url=""><as:assemblyIdentity name="RegistroAPRA2018.exe" version="1.0.0.1" publicKeyToken="a05b7c600830d6cb" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JHONATANANDREE\Jhonatan Andree</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/1X4r4NhOrYJNHp5jKzQqpG04RVlFG65JCG+htLNAxg=</DigestValue></Reference></SignedInfo><SignatureValue>TrwPP7QZsHE8++DFbCgMmYdApg8UJprXu6hNa0mrx4Wai32NW5+ol+MioCOiJc6vQH1rovO58ZyENvD03haKnrgfHt4AniH1paVZ6tUuM76cnW8fjGti9CKrVNyQiRieQHn+iRb3UruXANMSG2B54SLy18/pYQriU4lBeKuVrzI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zMy/EM4ky1uZgdn5DYjB2FKfdy+Afu0Dx8XgoncUpsa/tanXLdKDIvyX+tyB58nICn1DYKWI3hnl+sil4e7e0ZpmZqpSTo0vSLZCjn0Z3EuOO31beVk9j1bKXtT5o4OYzm+6hOzmLrLLFUBnzpavC2IkO0LLKNt6dBvVOSjhTFE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICETCCAXqgAwIBAgIQGEI4dufijZ5NLu2aUV/txTANBgkqhkiG9w0BAQsFADBHMUUwQwYDVQQDHjwASgBIAE8ATgBBAFQAQQBOAEEATgBEAFIARQBFAFwASgBoAG8AbgBhAHQAYQBuACAAQQBuAGQAcgBlAGUwHhcNMTgwOTExMDUzODM4WhcNMTkwOTExMTEzODM4WjBHMUUwQwYDVQQDHjwASgBIAE8ATgBBAFQAQQBOAEEATgBEAFIARQBFAFwASgBoAG8AbgBhAHQAYQBuACAAQQBuAGQAcgBlAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMzMvxDOJMtbmYHZ+Q2IwdhSn3cvgH7tA8fF4KJ3FKbGv7Wp1y3SgyL8l/rcgefJyAp9Q2CliN4Z5frIpeHu3tGaZmaqUk6NL0i2Qo59GdxLjjt9W3lZPY9Wyl7U+aODmM5vuoTs5i6yyxVAZ86WrwtiJDtCyyjbenQb1Tko4UxRAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAx8z4bFD84q3oRL9J547O39dseq4qZ98u41IDC12WRRygbTMSQYXQrKIUR8kv5XcfYUk+H086TFHHV+s5rH2ewTvg8f/79DrI7JunzC/7EcTfv543qz7PhvnlPCrf/LNHlWMGRa+Y58FCYUuga7LhmEJefl5z+jnLSrWNlYosEDk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

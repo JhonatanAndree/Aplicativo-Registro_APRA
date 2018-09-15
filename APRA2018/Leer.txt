@@ -1,0 +1,11 @@
+Bienvenido.
+
+1) Para iniciar debe instalar el archivo "RegistroAPRA2018.exe" en su computador.
+
+2) Cortar la carpeta "MyData" y pegarla en el disco local "C:\" 
+
+IMPORTANTE: la carpeta "MyData" debe estar almacenada en la raiz del disco C:
+
+3) Puede hacer las consultas necesarias en el archivo Access.
+
+Gracias.
