@@ -1,0 +1,33 @@
+C:\Users\Rodriguez_Ricardo\AppData\Local\Temporary Projects\coneccionAcces\bin\Debug\coneccionAcces.exe.config
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\bin\Debug\coneccionAcces.exe.config
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\bin\Debug\coneccionAcces.exe
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\bin\Debug\coneccionAcces.pdb
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\bin\Debug\coneccionAcces.xml
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.Form1.resources
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.Resources.resources
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.vbproj.GenerateResource.Cache
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.exe
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.xml
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.pdb
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\bin\Debug\Elecciones2018.accdb
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\bin\Debug\coneccionAcces.exe.manifest
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\bin\Debug\coneccionAcces.application
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.exe.manifest
+C:\Users\Rodriguez_Ricardo\Documents\Visual Studio 2012\Projects\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.application
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.vbprojAssemblyReference.cache
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.vbproj.GenerateResource.cache
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\coneccionAcces.vbproj.CoreCompileInputs.cache
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\bin\Debug\Elecciones2018.accdb
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\bin\Debug\RegistroAPRA2018.exe.config
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\bin\Debug\RegistroAPRA2018.exe.manifest
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\bin\Debug\RegistroAPRA2018.application
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\bin\Debug\RegistroAPRA2018.exe
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\bin\Debug\RegistroAPRA2018.pdb
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\bin\Debug\RegistroAPRA2018.xml
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\Personeros.Form1.resources
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\Personeros.Resources.resources
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\RegistroAPRA2018.exe.manifest
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\RegistroAPRA2018.application
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\RegistroAPRA2018.exe
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\RegistroAPRA2018.xml
+C:\Users\Jhonatan Andree\Downloads\Proyecto_Final\coneccionAcces\coneccionAcces\obj\Debug\RegistroAPRA2018.pdb
